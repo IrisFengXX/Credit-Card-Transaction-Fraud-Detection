@@ -1,6 +1,3 @@
-
-setwd("~/Desktop/DS0562-Fraud Analytics")
-
 library(readr)
 library(dplyr)
 library(randomForest)
